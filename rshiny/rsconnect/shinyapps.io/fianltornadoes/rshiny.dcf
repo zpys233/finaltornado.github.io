@@ -1,0 +1,10 @@
+name: rshiny
+title:
+username: fianltornadoes
+account: fianltornadoes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13531722
+bundleId: 9468531
+url: https://fianltornadoes.shinyapps.io/rshiny/
+version: 1
